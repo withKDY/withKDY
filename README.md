@@ -16,8 +16,6 @@
 
 ## 기술 스택
 
-다음은 제가 익숙하게 다룰 수 있는 기술 스택입니다:
-
 - **언어:** ![Dart](https://img.shields.io/badge/-Dart-blue), ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow), ![Java](https://img.shields.io/badge/-Java-orange)
 - **프레임워크:** ![Flutter](https://img.shields.io/badge/-Flutter-blue), ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
 - **데이터베이스:** ![MySQL](https://img.shields.io/badge/-MySQL-blue), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue), ![MariaDB](https://img.shields.io/badge/-MariaDB-blue)
