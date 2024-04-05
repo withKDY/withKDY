@@ -19,4 +19,4 @@
 - **언어:** ![Dart](https://img.shields.io/badge/-Dart-blue), ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow), ![Java](https://img.shields.io/badge/-Java-orange)
 - **프레임워크:** ![Flutter](https://img.shields.io/badge/-Flutter-blue), ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
 - **데이터베이스:** ![MySQL](https://img.shields.io/badge/-MySQL-blue), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue), ![MariaDB](https://img.shields.io/badge/-MariaDB-blue)
-- **기타 도구:** ![Git](https://img.shields.io/badge/-Git-red), ![Docker](https://img.shields.io/badge/-Docker-blueviolet), ![AWS](https://img.shields.io/badge/-AWS-orange), ![Svn](https://img.shields.io/badge/-Svn-yellowgreen), ![Jira](https://img.shields.io/badge/-Jira-blue)
+- **기타 도구:** ![Git](https://img.shields.io/badge/-Git-red), ![Docker](https://img.shields.io/badge/-Docker-blueviolet), ![AWS](https://img.shields.io/badge/-AWS-orange), ![Svn](https://img.shields.io/badge/-Svn-yellowgreen), ![Jira](https://img.shields.io/badge/-Jira-blue) 
