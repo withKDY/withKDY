@@ -7,7 +7,7 @@
 ### [MVsoftech] (2024.10 - 재직중)
 - **2D GIS 엔진:** Flutter를 이용하여 개발 중
 - **Mvoms:** 사내 웹으로, Flutter와 Spring Boot JPA를 이용하여 개발
-- 스마트항공판독현황 Flutter 프론트 개발
+- **스마트항공판독현황:** Flutter 프론트 개발
 
 ### [Skyware] (2023.04 - 2023.06)
 - **Cowell:** 이커머스 웹으로, Spring Batch를 개발
